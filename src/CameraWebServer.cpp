@@ -23,9 +23,6 @@
 
 #include "camera_pins.h"
 
-//const char* ssid = "TIM-18373419";
-//const char* password = "K9giYCTW4ryRS1MT26oIs7BG";
-
 void startCameraServer();
 
 void setup() {
